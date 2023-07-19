@@ -2,7 +2,7 @@
 
 Keyboard Visualizer is a Python application that provides a transparent window with customizable image layers. It allows you to toggle between different layouts by using specific key combinations.
 
-## Installation
+# Installation
 
 
 1. Create a virtual environment:
